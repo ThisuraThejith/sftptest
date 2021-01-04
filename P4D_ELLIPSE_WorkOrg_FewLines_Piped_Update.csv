@@ -1,0 +1,6 @@
+"SOURCE_SYSTEM"|"DATA_KEY"|"DATA_ACTION"|"ACTION_DATE"|"WORK_GROUP_ID"|"WORK_GROUP_DESC"|"WORK_GROUP_STATUS"|"WORK_GROUP_LOCATION"|"WGS_CODE"|"WGS_DESCRIPTION"|"WGS_DISCIPLINE"|"ME_DISCIPLINE"|"ENG_DISCIPLINE"|"DU_DESC"|"ROUTE_NAME"
+"ELLIPSE"|"BCBORPW"|"U"|"20-JAN-2020"|"BCBORPW"|"Orpington MMT Welding                   "|" "|"Welding & Grinding Mob Config                     "|"BCORPMMT  "|"Orpington MMT"|"Track"|"Orpington IMPM"|"Prog Manager"|"IMDM Orpington"|"Kent"
+"ELLIPSE"|"BCAORPW"|"U"|"20-JAN-2020"|"BCAORPW"|"Orpington MMT Production                "|" "|"Track Mobile Config                               "|"BCORPMMT  "|"Orpington MMT"|"Track"|"Orpington IMPM"|"Prog Manager"|"IMDM Orpington"|"Kent"
+"ELLIPSE"|"BCDORPW"|"U"|"20-JAN-2020"|"BCDORPW"|"Orpington MMT Supervisors               "|" "|"Track Mobile Config                               "|"BCORPMMT  "|"Orpington MMT"|"Track"|"Orpington IMPM"|"Prog Manager"|"IMDM Orpington"|"Kent"
+"ELLIPSE"|"BCCHRHW"|"U"|"20-JAN-2020"|"BCCHRHW"|"Herne Hill Works Delivery - Track       "|" "|"Track Mobile Config                               "|"BCORPTRW  "|"Orpington VWDM(TRACK)"|"Track"|"Orpington IMPM"|"Prog Manager"|"IMDM Orpington"|"Kent"
+TOTAL_COUNT|4
